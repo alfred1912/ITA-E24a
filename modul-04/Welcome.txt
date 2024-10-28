@@ -1,2 +1,9 @@
 Velkommen til mit repo!
+<<<<<<< HEAD
 TAK!
+=======
+
+Ja det er!
+
+hest
+>>>>>>> main
